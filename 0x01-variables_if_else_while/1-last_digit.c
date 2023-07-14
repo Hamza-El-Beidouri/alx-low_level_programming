@@ -7,7 +7,7 @@
  * Description: This program demonstrates how to extract the last digit
  *              of a given number.
  *
- * Return: 0 (Success)
+ * Return: Always 0.
  */
 int main(void)
 {
@@ -24,6 +24,6 @@ int main(void)
 		printf("Last digit of %d is %d and is less than 6 and not 0\n",
 				n, Last_Digit);
 	else
-		printf("Last digit of %d is 0\n", n);
+		printf("Last digit of %d is 0 and is 0\n", n);
 	return (0);
 }
