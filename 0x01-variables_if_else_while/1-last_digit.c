@@ -4,9 +4,8 @@
  /**
  * main - Entry point of the program
  *
- * Description: This program demonstrates how to extract the last digit
- *              of a given number.
- *
+ *Description: 'the program's description'
+
  * Return: Always 0.
  */
 int main(void)
