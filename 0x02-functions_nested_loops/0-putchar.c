@@ -1,14 +1,9 @@
 #include <stdio.h>
 #include "main.h"
-/***
- *
- * main - Entry point
- *
- * Description: prints _putchar using putchar prototype
- *
- * Return: Always 0 (Success)
-*/
-
+/**
+ * main - Print _putchar
+ * Return: Always 0
+ */
 
 int main(void)
 {
