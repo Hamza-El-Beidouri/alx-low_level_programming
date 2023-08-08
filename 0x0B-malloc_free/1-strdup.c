@@ -18,7 +18,7 @@ char *_strdup(char *str)
 	if (str == NULL)
 		return (NULL);
 
-	while (str != '\0')
+	while (str[j] != '\0')
 		j++;
 
 	copyarray = (char *)malloc((sizeof(char) * j) + 1);
